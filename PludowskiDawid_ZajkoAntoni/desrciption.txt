@@ -1,1 +1,8 @@
-Dawid Płudowski, Antoni Zajko
+Dawid Płudowski,Antoni Zajko
+https://github.com/DawidPludowski/snars2024-p10
+D1-K=2,0.019066
+D1-UNC,0.162874
+D2-K=7,0.027785
+D2-UNC,0.162874
+D3-K=12,0.057464
+D3-UNC,0.082294
